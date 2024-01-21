@@ -10,4 +10,4 @@
 
 ### Skills:
 
-Pytorch, pandas, numpy, markdown, latex, seaborn. 
+Pytorch, sklearn, catboost, xgboost, lightgbm, pandas, numpy, seaborn, markdown, latex
