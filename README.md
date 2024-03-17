@@ -2,6 +2,8 @@
 
 
 #### Projects
+- :star2: **The Central Bank of Russia hackaton**. The task was to build RAG-system that can answer user's questions in natural language. 
+- :star2: **Sense group hackaton** (prize-winners). Development of an algorithm of matching resumes and vacancies. Repository is closed due to NDA. 
 - :star2: **VK hackaton** (prize-winners). 3 tasks: classification, computer vision and building recommendation system.
 - :star2: **SSA**: my research work about implementation of Singular Spectrum Analysis for time series.
 - 🌱 **Suicide analysis**: analysis of world suicide mortality and refutations of some popular hypotheses. Linear regression for predicting mortality and PCA for reduction of dimensionality of categorical data. 
